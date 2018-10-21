@@ -17,7 +17,15 @@
   },
   "homepage": "https://github.com/konqa/yeoman#readme",
   "dependencies": {
+    "browser-sync": "^2.26.3",
+    "eslint": "^5.7.0",
     "generator-webapp": "^3.0.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^5.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
     "yo": "^2.0.5"
   }
 }
