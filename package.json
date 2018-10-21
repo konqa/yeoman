@@ -1,0 +1,23 @@
+{
+  "name": "yeoman",
+  "version": "1.0.0",
+  "description": "yeoman boilerplate ting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konqa/yeoman.git"
+  },
+  "author": "Victor Bagu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konqa/yeoman/issues"
+  },
+  "homepage": "https://github.com/konqa/yeoman#readme",
+  "dependencies": {
+    "generator-webapp": "^3.0.1",
+    "yo": "^2.0.5"
+  }
+}
